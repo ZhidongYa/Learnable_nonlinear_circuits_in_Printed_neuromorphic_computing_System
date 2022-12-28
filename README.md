@@ -6,3 +6,4 @@ When we obtain the models for the nonlinear circuits, we then integrate them as 
 
 # Evaluation
 For the evaluation there is a set of benchmark datasets. Maybe add standarddeviations as well.  Ideally, it can be seen that the performance of learnable nonlinear circuits improves a lot compare to nonlearnable nonlinear circuits.
+All details see Zhidong_Yang _Abschlussvortrag.pptx.
