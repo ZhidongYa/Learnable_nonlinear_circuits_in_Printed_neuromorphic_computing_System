@@ -5,5 +5,5 @@ Learnable nonlinear circuits means, that the components of nonlinear circuits ca
 When we obtain the models for the nonlinear circuits, we then integrate them as an NN. We refer to this NN as printed Neural Network(pNN). In this situation, training a pNN means designing a printed neoromorphic circuit. We conduct experiments to study the performance of learnable nonlinear circuits in different consideration.
 
 # Evaluation
-For the evaluation there is a set of benchmark datasets. Maybe add standarddeviations as well.  Ideally, it can be seen that the performance of learnable nonlinear circuits improves a lot compare to nonlearnable nonlinear circuits.
+For the evaluation there is a set of benchmark datasets. Maybe add standard deviations as well.  Ideally, it can be seen that the performance of learnable nonlinear circuits improves a lot compare to nonlearnable(fixed) nonlinear circuits.
 All details see Zhidong_Yang _Abschlussvortrag.pptx.
